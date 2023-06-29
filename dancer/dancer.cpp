@@ -1,0 +1,125 @@
+﻿#include <iostream>
+#include "windows.h"
+using namespace std;
+int main()
+{
+    while (1)
+    {
+        cout <<
+            "                             =\n"
+            "                        JJ JJJJJJJ\n"
+            "                       JJJJJJJJJJJJJJJ\n"
+            "                       ==JJ===JJJJJJJJJ\n"
+            "                        ==========JJJ=\n"
+            "                      aannaaaaaaaaaa\n"
+            "                   aannnnnnnaaaaaaaaaaaa\n"
+            "                 aannnnnnnnnnnnaaaaaaannna\n"
+            "                annnn=  =Jnnnnnnn==Jnnnnnnn= ==-\n"
+            "              =annn=      nnnnn      =nnnnnn\n"
+            "             ==nnnn       nnnnn       nnnnnn\n"
+            "              nJnnnn     nnnnnn=      nnnnnnn\n"
+            "              nJJnnnnnn===nnnnnnnnnnnnnnnnnnJnn\n"
+            "           andnJJnnnn=           =nnnnnnnnn===nnn\n"
+            "           annJJJJJnn             =nnnnnnnnn=nnnnnnn\n"
+            "        nnnJnn=JJJJJJn            nnnnnnnnnnnnnnnnnnn\n"
+            "     nnnnnnnnnn=JJJJJJJnn      Jnnnnnnnnnnnn=Jnnnnnnnn\n"
+            "    nnnnnnnJnnn===JJJJJJJnnJnnnnnnnnnnnJnnnnJnnnnJJJnn\n"
+            "   nnnnnnn==nnn=======JJJJJJnnnnnnnnnnJJnnnd==JnnnnnnJ\n"
+            "   JnnJJ=nnJnnn=========================nnnaa=JJnnJJJ\n"
+            "  =JJnnnnn nJJ=========================JJnJnaJ==\n"
+            "    =JJnnnn n==  ==========================nnnn\n"
+            "      ====J n=n          ===================\n"
+            "                 ====              ======Jn\n"
+            "                annnnnnnnn==     n=nnnnnnnnn\n"
+            "                =nnnnnnnJ==J    n====Jnnnnnn=\n";
+        Sleep(250);
+        system("cls");
+        cout <<
+            "                        J  JJJJJJ\n"
+            "                     JJJJJJJJJJJJJJJJ\n"
+            "                     =JJJ==JJJJJJJJJJ\n"
+            "                     ===========JJJJ\n"
+            "                       aaaaaaaaaaaa =\n"
+            "                    annnnnaaaaaaaaaaaaa=\n"
+            "                 dannnnnnnnnnnaaaaaaaannn\n"
+            "                annnnn===nnnnnnnn===nnnnnn====\n"
+            "               annnn=     =nnnn=      nnnnn =\n"
+            "              annnn=       nnnn=       nnnnn\n"
+            "            ==nnnnnn      nnnnnn      nnnnnnn\n"
+            "             nnJnnnnnnnnnnnnnnnnnnnnnnnnnnnnnan\n"
+            "           ana=JJnnnnnn=           =nnnnnnnJnnn\n"
+            "           ann=JJJnnnn=             nnnnnnnnJnnnn\n"
+            "       nnnnnnnnJJJJJnnn            nnnnnnnnn===nnnnnn\n"
+            "    nnnJnnnnnnnJJJJJJJJnn        nnnnnnnnJnnn=Jnnnnnnn\n"
+            "   nnnnnnnJnnnnn=JJJJJJJJJnnnJnnnnnnnnnnnJnnnnJnnnnnnnn\n"
+            "  nJnnnnnnnnnnnn====JJJJJJJnJJnnnnnnnnnnJnnnnn=JJnnnnnn\n"
+            "  nJnnnnnnnJnnnn========JJJJ==JJJJJJJ=====nnnaJnnnnnnnn\n"
+            "   J==JnnnnJnnnn==========================JnJaJ=JJJnJJ\n"
+            "    ==JJJJ  nnJJ====J=============JJ========nnn==JJJ\n"
+            "      =JJJ  nn       == =====================Jn\n"
+            "                                =       ====\n"
+            "                 == =======     = ==== J=nn=\n"
+            "                nnnnnnnnnn=n    nn=nnnnnnnnn\n"
+            "                =nnnnnnnJ===    n====nnnnnnnn\n";
+        Sleep(250);
+        system("cls");
+        cout <<
+            "                    JJJJJJJJJJJ\n"
+            "                  JJJJJJJJJJJJJJJ=\n"
+            "                 JJJJJ===JJJJJJJJJ\n"
+            "                  ===JJ======JJJ=\n"
+            "                   ===aaaaaaaaaaaaaa\n"
+            "                  Jannnnnaaaaaaaaaaaann\n"
+            "                dannnnnnnnnnnnaaaaaannnnn ===\n"
+            "               annnnnnnnnnnnnnnn=    =nnnnn\n"
+            "              annnnnJ     =nnnnn       nnnnn\n"
+            "             annnnnn       Jnnnn       nnnnn\n"
+            "             nnnnnnn       nnnnnnn    nnnnnnn\n"
+            "            ==JJnnnnn    =nnnnnnnn==nnnnnnnnn J\n"
+            "          annn=JJnnnnnnnn=           =nnnnnnnnnn\n"
+            "       nnnnnnnaJJJnnnnnn              nnnnnnnnnnn\n"
+            "    nnnnnnnnnnnaJJJJnnnn             nnnnnnnnnnnnnn\n"
+            "  =nnnnnnnnnnnnnnJJJJJnnnn         nnnnnnnnnnnnnnnnnnn\n"
+            "  nJnnnnnnnnnnnnnJJJJJJJJJnnnnnnnnnnnnnnnnnnnn==Jnnnnnn=\n"
+            "  nJJnnJJnnnnnnnnn=JJJJJJJJJnnnJnnnnnnnnnnJ=nn=Jnnnnnnnn\n"
+            "  J=JJnnnnnnJnnnnJ======J===J=J=JJJJJJJ=====nnn=nnnnnnnn\n"
+            "   ======Jnnnnnnnn==========================JJaa=JJnnnJn=\n"
+            "     J===JJnnnnnJ========================J==JJn=JJJnnnJ\n"
+            "           nnnn=     ======================== =n ====J\n"
+            "            n=         = ===  ============ =\n"
+            "                = =====            ===== Jnn\n"
+            "                nnnnnnnnnn=     nn=nnnnnnnnn\n"
+            "               J=nnnnnnJJ==J    n====Jnnnnnnn\n";
+        Sleep(250);
+        system("cls");
+        cout <<
+            "                        J  JJJJJJ\n"
+            "                     JJJJJJJJJJJJJJJJ\n"
+            "                     =JJJ==JJJJJJJJJJ\n"
+            "                     ===========JJJJ\n"
+            "                       aaaaaaaaaaaa =\n"
+            "                    annnnnaaaaaaaaaaaaa=\n"
+            "                 dannnnnnnnnnnaaaaaaaannn\n"
+            "                annnnn===nnnnnnnn===nnnnnn====\n"
+            "               annnn=     =nnnn=      nnnnn =\n"
+            "              annnn=       nnnn=       nnnnn\n"
+            "            ==nnnnnn      nnnnnn      nnnnnnn\n"
+            "             nnJnnnnnnnnnnnnnnnnnnnnnnnnnnnnnan\n"
+            "           ana=JJnnnnnn=           =nnnnnnnJnnn\n"
+            "           ann=JJJnnnn=             nnnnnnnnJnnnn\n"
+            "       nnnnnnnnJJJJJnnn            nnnnnnnnn===nnnnnn\n"
+            "    nnnJnnnnnnnJJJJJJJJnn        nnnnnnnnJnnn=Jnnnnnnn\n"
+            "   nnnnnnnJnnnnn=JJJJJJJJJnnnJnnnnnnnnnnnJnnnnJnnnnnnnn\n"
+            "  nJnnnnnnnnnnnn====JJJJJJJnJJnnnnnnnnnnJnnnnn=JJnnnnnn\n"
+            "  nJnnnnnnnJnnnn========JJJJ==JJJJJJJ=====nnnaJnnnnnnnn\n"
+            "   J==JnnnnJnnnn==========================JnJaJ=JJJnJJ\n"
+            "    ==JJJJ  nnJJ====J=============JJ========nnn==JJJ\n"
+            "      =JJJ  nn       == =====================Jn\n"
+            "                                =       ====\n"
+            "                 == =======     = ==== J=nn=\n"
+            "                nnnnnnnnnn=n    nn=nnnnnnnnn\n"
+            "                =nnnnnnnJ===    n====nnnnnnnn\n";
+        Sleep(250);
+        system("cls");
+    }
+}
